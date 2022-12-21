@@ -1,6 +1,6 @@
 deactivated=False|
-multiEmu=True|
-subMail=True|
+multiEmu=False|
+subMail=False|
 barnBot=1671421851=31|
 LEVEL7=1671421852=31|
 bot3=1671421853=33|
